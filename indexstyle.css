@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    scroll-behavior: smooth;
+
+}
+body{
+    background-image: url("/bg/blueglassgradient.jpg");
+    background-repeat: no-repeat;
+    background-size:auto;
+
+}
+.midclass{
+    display: flex;
+    flex-wrap:nowrap;
+    flex-direction: row;
+}
+.left{
+    border-color: greenyellow;
+    height: 10cm;
+    margin:10px;
+    width:50%;
+}
+.right{
+    height:10cm;
+    border-color: greenyellow;
+    margin:10px;
+    width:40%;
+}
