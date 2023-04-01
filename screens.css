@@ -1,0 +1,15 @@
+@media only screen and (max-width: 1200px) {
+  /* Styles for screens with a maximum width of 1200px */
+}
+
+@media only screen and (max-width: 992px) {
+  /* Styles for screens with a maximum width of 992px */
+}
+
+@media only screen and (max-width: 768px) {
+  /* Styles for screens with a maximum width of 768px */
+}
+
+@media only screen and (max-width: 576px) {
+  /* Styles for screens with a maximum width of 576px */
+}
